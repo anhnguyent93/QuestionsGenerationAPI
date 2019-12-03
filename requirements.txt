@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+nltk
+six
+textblob
+flask_cors

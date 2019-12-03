@@ -1,0 +1,4 @@
+runtime: python37
+
+env_variables:
+  NLTK_DATA: "env/nltk_data"
